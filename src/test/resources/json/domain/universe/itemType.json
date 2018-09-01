@@ -1,0 +1,35 @@
+{
+  "capacity": 0,
+  "description": "Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.\r\n\r\nPenalty: Max capacitor reduced.\r\n\r\nNote: Battleship class module.",
+  "dogma_attributes": [
+    {
+      "attribute_id": 4,
+      "value": 0
+    },
+    {
+      "attribute_id": 763,
+      "value": 1
+    }
+  ],
+  "dogma_effects": [
+    {
+      "effect_id": 13,
+      "is_default": false
+    },
+    {
+      "effect_id": 16,
+      "is_default": false
+    }
+  ],
+  "group_id": 46,
+  "icon_id": 10149,
+  "market_group_id": 131,
+  "mass": 0,
+  "name": "500MN Microwarpdrive I",
+  "packaged_volume": 50,
+  "portion_size": 1,
+  "published": true,
+  "radius": 1,
+  "type_id": 12054,
+  "volume": 50
+}

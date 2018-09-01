@@ -1,0 +1,13 @@
+[
+  {
+    "attackers_score": 0.4,
+    "campaign_id": 32833,
+    "constellation_id": 20000125,
+    "defender_id": 1695357456,
+    "defender_score": 0.6,
+    "event_type": "station_defense",
+    "solar_system_id": 30000856,
+    "start_time": "2016-10-29T14:34:40Z",
+    "structure_id": 61001096
+  }
+]

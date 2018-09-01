@@ -1,0 +1,31 @@
+{
+  "max_dockable_ship_volume": 50000000,
+  "name": "Jakanerva III - Moon 15 - Prompt Delivery Storage",
+  "office_rental_cost": 10000,
+  "owner": 1000003,
+  "position": {
+    "x": 165632286720,
+    "y": 2771804160,
+    "z": -2455331266560
+  },
+  "race_id": 1,
+  "reprocessing_efficiency": 0.5,
+  "reprocessing_stations_take": 0.05,
+  "services": [
+    "courier-missions",
+    "reprocessing-plant",
+    "market",
+    "repair-facilities",
+    "fitting",
+    "news",
+    "storage",
+    "insurance",
+    "docking",
+    "office-rental",
+    "loyalty-point-store",
+    "navy-offices"
+  ],
+  "station_id": 60000277,
+  "system_id": 30000148,
+  "type_id": 1531
+}

@@ -1,0 +1,66 @@
+{
+  "kills": {
+    "active_total": [
+      {
+        "amount": 10000,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 8500,
+        "character_id": 95465499
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 100,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 70,
+        "character_id": 95465499
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 34,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 20,
+        "character_id": 95465499
+      }
+    ]
+  },
+  "victory_points": {
+    "active_total": [
+      {
+        "amount": 1239158,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 1139029,
+        "character_id": 95465499
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 2660,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 2000,
+        "character_id": 95465499
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 620,
+        "character_id": 2112625428
+      },
+      {
+        "amount": 550,
+        "character_id": 95465499
+      }
+    ]
+  }
+}

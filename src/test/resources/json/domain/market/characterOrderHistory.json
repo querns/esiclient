@@ -1,0 +1,19 @@
+[
+  {
+    "duration": 30,
+    "escrow": 45.6,
+    "is_buy_order": true,
+    "is_corporation": false,
+    "issued": "2016-09-03T05:12:25Z",
+    "location_id": 456,
+    "min_volume": 1,
+    "order_id": 123,
+    "price": 33.3,
+    "range": "station",
+    "region_id": 123,
+    "state": "expired",
+    "type_id": 456,
+    "volume_remain": 4422,
+    "volume_total": 123456
+  }
+]

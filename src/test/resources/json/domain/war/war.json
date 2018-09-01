@@ -1,0 +1,16 @@
+{
+  "aggressor": {
+    "corporation_id": 986665792,
+    "isk_destroyed": 0,
+    "ships_killed": 0
+  },
+  "declared": "2004-05-22T05:20:00Z",
+  "defender": {
+    "corporation_id": 1001562011,
+    "isk_destroyed": 0,
+    "ships_killed": 0
+  },
+  "id": 1941,
+  "mutual": false,
+  "open_for_allies": false
+}

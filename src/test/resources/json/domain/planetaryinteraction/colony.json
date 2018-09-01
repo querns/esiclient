@@ -1,0 +1,74 @@
+{
+  "links": [
+    {
+      "destination_pin_id": 1005770359223,
+      "link_level": 0,
+      "source_pin_id": 1005770359222
+    }
+  ],
+  "pins": [
+    {
+      "last_cycle_start": "2012-03-12T05:25:52Z",
+      "latitude": 1.8616799813,
+      "longitude": 2.7095622845,
+      "pin_id": 1005770359222,
+      "schematic_id": 122,
+      "type_id": 2471
+    },
+    {
+      "contents": [
+        {
+          "amount": 2523,
+          "type_id": 2308
+        }
+      ],
+      "last_cycle_start": "2012-03-12T05:28:00Z",
+      "latitude": 1.8742300936,
+      "longitude": 2.7114277212,
+      "pin_id": 1005770359225,
+      "schematic_id": 122,
+      "type_id": 2471
+    },
+    {
+      "latitude": 1.4993797604,
+      "longitude": 1.6234438987,
+      "pin_id": 1005020617361,
+      "type_id": 2551
+    },
+    {
+      "expiry_time": "2012-03-12T05:13:00Z",
+      "extractor_details": {
+        "cycle_time": 900,
+        "head_radius": 0.0127369417,
+        "heads": [
+          {
+            "head_id": 0,
+            "latitude": 1.7371911413,
+            "longitude": 2.9114701781
+          }
+        ],
+        "product_type_id": 2308,
+        "qty_per_cycle": 13663
+      },
+      "install_time": "2012-03-11T05:28:00Z",
+      "last_cycle_start": "2012-03-12T05:13:00Z",
+      "latitude": 1.8376523103,
+      "longitude": 2.6950053258,
+      "pin_id": 1005770359219,
+      "type_id": 3064
+    }
+  ],
+  "routes": [
+    {
+      "content_type_id": 2389,
+      "destination_pin_id": 1005770359221,
+      "quantity": 20,
+      "route_id": 425086531,
+      "source_pin_id": 1005770359231,
+      "waypoints": [
+        1005770359228,
+        1005770359227
+      ]
+    }
+  ]
+}

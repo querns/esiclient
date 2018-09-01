@@ -1,0 +1,12 @@
+{
+  "connected_groups": [
+    100
+  ],
+  "description": "As a capsuleer...",
+  "group_id": 103,
+  "name": "Welcome to New Eden",
+  "notification": "Completed:<br>Welcome to New Eden",
+  "required_tasks": [
+    19
+  ]
+}

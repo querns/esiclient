@@ -1,0 +1,19 @@
+{
+  "description": "",
+  "display_name": "",
+  "effect_category": 0,
+  "effect_id": 6010,
+  "icon_id": 0,
+  "modifiers": [
+    {
+      "domain": "shipID",
+      "func": "ItemModifier",
+      "modified_attribute_id": 76,
+      "modifying_attribute_id": 1991,
+      "operator": 5
+    }
+  ],
+  "name": "shipModeMaxTargetRangePostDiv",
+  "post_expression": 2693,
+  "pre_expression": 2692
+}

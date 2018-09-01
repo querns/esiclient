@@ -1,0 +1,14 @@
+[
+  {
+    "changed_at": "2016-10-25T14:46:00Z",
+    "character_id": 12345,
+    "issuer_id": 45678,
+    "new_roles": [
+      "Station_Manager"
+    ],
+    "old_roles": [
+      "Diplomat"
+    ],
+    "role_type": "roles"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "category_id": 6,
+  "group_id": 25,
+  "name": "Frigate",
+  "published": true,
+  "types": [
+    587,
+    586,
+    585
+  ]
+}

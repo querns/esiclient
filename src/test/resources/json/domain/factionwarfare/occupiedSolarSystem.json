@@ -1,0 +1,10 @@
+[
+  {
+    "contested": "uncontested",
+    "occupier_faction_id": 500001,
+    "owner_faction_id": 500001,
+    "solar_system_id": 30002096,
+    "victory_points": 60,
+    "victory_points_threshold": 3000
+  }
+]
