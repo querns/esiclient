@@ -1,0 +1,11 @@
+{
+  "attribute_id": 20,
+  "default_value": 1,
+  "description": "Factor by which topspeed increases.",
+  "display_name": "Maximum Velocity Bonus",
+  "high_is_good": true,
+  "icon_id": 1389,
+  "name": "speedFactor",
+  "published": true,
+  "unit_id": 124
+}

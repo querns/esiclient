@@ -1,0 +1,6 @@
+{
+  "description": "To use station services...",
+  "name": "Dock in the station",
+  "notification": "Completed:<br>Docked in a station!",
+  "task_id": 10
+}

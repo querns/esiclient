@@ -1,0 +1,10 @@
+{
+  "description": "Small, fast vessels suited to a variety of purposes.",
+  "market_group_id": 5,
+  "name": "Standard Frigates",
+  "parent_group_id": 1361,
+  "types": [
+    582,
+    583
+  ]
+}

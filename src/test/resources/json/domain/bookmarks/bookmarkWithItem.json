@@ -1,0 +1,15 @@
+[
+  {
+    "bookmark_id": 4,
+    "created": "2016-08-09T11:57:47Z",
+    "creator_id": 2112625428,
+    "folder_id": 5,
+    "item": {
+      "item_id": 50006722,
+      "type_id": 29633
+    },
+    "label": "Stargate",
+    "location_id": 30003430,
+    "notes": "This is a stargate"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "enlisted_on": "2017-10-17T00:00:00Z",
+  "faction_id": 500001,
+  "kills": {
+    "last_week": 893,
+    "total": 684350,
+    "yesterday": 136
+  },
+  "pilots": 28863,
+  "victory_points": {
+    "last_week": 102640,
+    "total": 52658260,
+    "yesterday": 15980
+  }
+}

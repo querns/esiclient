@@ -1,0 +1,13 @@
+[
+  {
+    "corporation_id": 90000001,
+    "is_deleted": true,
+    "record_id": 500,
+    "start_date": "2016-06-26T20:00:00Z"
+  },
+  {
+    "corporation_id": 90000002,
+    "record_id": 501,
+    "start_date": "2016-07-26T20:00:00Z"
+  }
+]

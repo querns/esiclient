@@ -1,0 +1,32 @@
+[
+  {
+    "corporation_id": 98000001,
+    "date": "2017-03-16T15:01:45Z",
+    "description": "For 33 corp!",
+    "graphics": [
+      {
+        "color": -1,
+        "graphic": "caldari.1_1",
+        "layer": 0,
+        "part": 1
+      },
+      {
+        "color": -330271,
+        "graphic": "caldari.1_2",
+        "layer": 1,
+        "part": 1
+      },
+      {
+        "color": -1,
+        "graphic": "compass.1_2",
+        "layer": 0,
+        "part": 2
+      }
+    ],
+    "issuer_id": 2112000002,
+    "medal_id": 3,
+    "reason": "Thanks!",
+    "status": "private",
+    "title": "33 tester medal"
+  }
+]

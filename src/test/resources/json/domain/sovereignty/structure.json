@@ -1,0 +1,11 @@
+[
+  {
+    "alliance_id": 498125261,
+    "solar_system_id": 30000570,
+    "structure_id": 1018253388776,
+    "structure_type_id": 32226,
+    "vulnerability_occupancy_level": 2,
+    "vulnerable_end_time": "2016-10-29T05:30:00Z",
+    "vulnerable_start_time": "2016-10-28T20:30:00Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "bookmark_id": 5,
+    "coordinates": {
+      "x": -2958928814000,
+      "y": -338367275823,
+      "z": 2114538075090
+    },
+    "created": "2016-08-09T11:57:47Z",
+    "creator_id": 2112625428,
+    "folder_id": 5,
+    "label": "Random location",
+    "location_id": 30003430,
+    "notes": "This is a random location in space"
+  }
+]

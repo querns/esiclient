@@ -1,0 +1,16 @@
+[
+  {
+    "alliance_tax_rate": 0.1,
+    "allow_access_with_standings": true,
+    "allow_alliance_access": false,
+    "corporation_tax_rate": 0.02,
+    "excellent_standing_tax_rate": 0.05,
+    "good_standing_tax_rate": 0.2,
+    "neutral_standing_tax_rate": 0.5,
+    "office_id": 1000000014530,
+    "reinforce_exit_end": 1,
+    "reinforce_exit_start": 23,
+    "standing_level": "neutral",
+    "system_id": 30003657
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "allow_alliance_members": false,
+  "allow_corporation_members": true,
+  "anchor": "config_starbase_equipment_role",
+  "attack_if_at_war": true,
+  "attack_if_other_security_status_dropping": false,
+  "fuel_bay_take": "config_starbase_equipment_role",
+  "fuel_bay_view": "config_starbase_equipment_role",
+  "offline": "config_starbase_equipment_role",
+  "online": "config_starbase_equipment_role",
+  "unanchor": "config_starbase_equipment_role",
+  "use_alliance_standings": false,
+  "fuels": [
+    {
+      "quantity": 123,
+      "type_id": 456
+    }
+  ]
+}

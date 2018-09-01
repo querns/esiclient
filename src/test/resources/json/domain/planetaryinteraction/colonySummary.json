@@ -1,0 +1,20 @@
+[
+  {
+    "last_update": "2016-11-28T16:42:51Z",
+    "num_pins": 1,
+    "owner_id": 90000001,
+    "planet_id": 40023691,
+    "planet_type": "plasma",
+    "solar_system_id": 30000379,
+    "upgrade_level": 0
+  },
+  {
+    "last_update": "2016-11-28T16:41:54Z",
+    "num_pins": 1,
+    "owner_id": 90000001,
+    "planet_id": 40023697,
+    "planet_type": "barren",
+    "solar_system_id": 30000379,
+    "upgrade_level": 0
+  }
+]

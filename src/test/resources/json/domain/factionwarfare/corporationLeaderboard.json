@@ -1,0 +1,66 @@
+{
+  "kills": {
+    "active_total": [
+      {
+        "amount": 81692,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 76793,
+        "corporation_id": 1000182
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 290,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 169,
+        "corporation_id": 1000182
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 51,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 39,
+        "corporation_id": 1000182
+      }
+    ]
+  },
+  "victory_points": {
+    "active_total": [
+      {
+        "amount": 18640927,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 18078265,
+        "corporation_id": 1000181
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 91980,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 58920,
+        "corporation_id": 1000181
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 12600,
+        "corporation_id": 1000180
+      },
+      {
+        "amount": 8240,
+        "corporation_id": 1000181
+      }
+    ]
+  }
+}

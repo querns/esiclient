@@ -1,0 +1,66 @@
+{
+  "kills": {
+    "active_total": [
+      {
+        "amount": 832273,
+        "faction_id": 500004
+      },
+      {
+        "amount": 687915,
+        "faction_id": 500001
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 730,
+        "faction_id": 500001
+      },
+      {
+        "amount": 671,
+        "faction_id": 500004
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 100,
+        "faction_id": 500001
+      },
+      {
+        "amount": 50,
+        "faction_id": 500004
+      }
+    ]
+  },
+  "victory_points": {
+    "active_total": [
+      {
+        "amount": 53130500,
+        "faction_id": 500001
+      },
+      {
+        "amount": 50964263,
+        "faction_id": 500004
+      }
+    ],
+    "last_week": [
+      {
+        "amount": 97360,
+        "faction_id": 500001
+      },
+      {
+        "amount": 84980,
+        "faction_id": 500004
+      }
+    ],
+    "yesterday": [
+      {
+        "amount": 5000,
+        "faction_id": 500002
+      },
+      {
+        "amount": 3500,
+        "faction_id": 500003
+      }
+    ]
+  }
+}

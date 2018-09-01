@@ -1,0 +1,34 @@
+[
+  {
+    "action": "set_password",
+    "character_id": 2112625428,
+    "container_id": 1000000012279,
+    "container_type_id": 17365,
+    "location_flag": "CorpSAG1",
+    "location_id": 1000000012278,
+    "logged_at": "2017-10-10T14:00:00Z",
+    "password_type": "general"
+  },
+  {
+    "action": "lock",
+    "character_id": 2112625428,
+    "container_id": 1000000012279,
+    "container_type_id": 17365,
+    "location_flag": "CorpSAG1",
+    "location_id": 1000000012278,
+    "logged_at": "2017-10-11T12:04:33Z",
+    "quantity": 30,
+    "type_id": 1230
+  },
+  {
+    "action": "configure",
+    "character_id": 2112625428,
+    "container_id": 1000000012279,
+    "container_type_id": 17365,
+    "location_flag": "CorpSAG2",
+    "location_id": 1000000012278,
+    "logged_at": "2017-10-11T12:06:29Z",
+    "new_config_bitmask": 31,
+    "old_config_bitmask": 23
+  }
+]

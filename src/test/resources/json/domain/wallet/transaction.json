@@ -1,0 +1,14 @@
+[
+  {
+    "client_id": 54321,
+    "date": "2016-10-24T09:00:00Z",
+    "is_buy": true,
+    "is_personal": true,
+    "journal_ref_id": 67890,
+    "location_id": 60014719,
+    "quantity": 1,
+    "transaction_id": 1234567890,
+    "type_id": 587,
+    "unit_price": 1
+  }
+]

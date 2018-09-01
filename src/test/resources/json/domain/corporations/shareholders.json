@@ -1,0 +1,22 @@
+[
+  {
+    "share_count": 580,
+    "shareholder_id": 98000001,
+    "shareholder_type": "corporation"
+  },
+  {
+    "share_count": 20,
+    "shareholder_id": 2112000003,
+    "shareholder_type": "character"
+  },
+  {
+    "share_count": 300,
+    "shareholder_id": 2112000004,
+    "shareholder_type": "character"
+  },
+  {
+    "share_count": 100,
+    "shareholder_id": 2112000001,
+    "shareholder_type": "character"
+  }
+]
