@@ -45,18 +45,6 @@ If you're not using Google Guice, you can use `ClientFactory` to instantiate a
     Client client = ClientFactory.instance(config);
 ```
 
-Both methods can also accept a `ClientConfig` to further define the runtime
-characteristics of the client.
-
-```java
-    ClientConfig config = new ClientConfig.Builder().build();
-    ClientModule clientModule = new ClientModule(config);
-    Client client = Guice.createInjector(clientModule).getInstance(Client.class);
-    
-    // or, if you're using the ClientFactory
-    Client client = ClientFactory.instance(config);
-```
-
 ### Making a request
 
 A `Client` has a primary function: `sendRequest()`. Simply create a request
