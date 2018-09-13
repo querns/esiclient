@@ -16,7 +16,7 @@ public class DeprecationDetectionHook implements HeadersHook {
 
     @Override
     public void process(final HttpResponseHeaders headers, RawContentResponse.Builder builder) {
-        if (headers.getHeaders().contains("warning") && headers.getHeaders().get("warning").equals("299 - This route is deprecated.")) {
+        if (headers.getHeaders().contains("warning") && headers.getHeaders().getAll("warning").stream().anyMatch(s -> s.startsWith("299"))) {
             builder.setDeprecated(true);
         }
     }
