@@ -65,7 +65,7 @@ public class FunctionalTestHarness {
         final RefreshTokenRequest refreshTokenRequest = new RefreshTokenRequest(
             new NetHttpTransport(),
             new JacksonFactory(),
-            new GenericUrl("https://login.eveonline.com/oauth/token"),
+            new GenericUrl("https://login.eveonline.com/v2/oauth/token"),
             authToken
         );
 
