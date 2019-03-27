@@ -126,4 +126,12 @@ public interface CorporationInfo {
      * @return the corporation's URL
      */
     Optional<String> getURL();
+
+    /**
+     * Get the war eligibility status of the corporation.
+     *
+     * @return is the corporation war eligible
+     */
+
+    Optional<Boolean> isWarEligible();
 }

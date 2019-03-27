@@ -19,7 +19,7 @@ final public class NotificationsRequest implements GetRequest<ImmutableList<Noti
 
     @Override
     public String getURL() {
-        return String.format("/v2/characters/%d/notifications/", characterID);
+        return String.format("/v4/characters/%d/notifications/", characterID);
     }
 
     @Override

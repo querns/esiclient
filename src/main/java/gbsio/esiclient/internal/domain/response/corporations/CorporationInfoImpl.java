@@ -20,6 +20,7 @@ public class CorporationInfoImpl implements CorporationInfo {
     private final float taxRate;
     private final String ticker;
     private final String url;
+    private final Boolean warEligible;
 
     CorporationInfoImpl(
         @JsonProperty("alliance_id")
@@ -47,7 +48,9 @@ public class CorporationInfoImpl implements CorporationInfo {
         @JsonProperty("ticker")
         final String ticker,
         @JsonProperty("url")
-        final String url
+        final String url,
+        @JsonProperty("war_eligible")
+        final Boolean warEligible
     ) {
         this.allianceID = allianceID;
         this.ceoID = ceoID;
@@ -62,6 +65,7 @@ public class CorporationInfoImpl implements CorporationInfo {
         this.taxRate = taxRate;
         this.ticker = ticker;
         this.url = url;
+        this.warEligible = warEligible;
     }
 
     @Override
@@ -124,7 +128,13 @@ public class CorporationInfoImpl implements CorporationInfo {
         return ticker;
     }
 
+    @Override
     public Optional<String> getURL() {
         return Optional.ofNullable(url);
+    }
+
+    @Override
+    public Optional<Boolean> isWarEligible() {
+        return Optional.ofNullable(warEligible);
     }
 }
